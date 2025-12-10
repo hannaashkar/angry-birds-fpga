@@ -7,7 +7,7 @@ This project was created as part of the Technion Winter 2025 Digital Systems Lab
 ---
 
 ## 📘 Project Presentation  
-👉 **[View the full PDF presentation](docs/.pdf)**
+👉 **[View the full PDF presentation](docs/PPT_Project.pdf)**
 
 The presentation includes system architecture, hierarchy diagrams, model descriptions, gameplay screenshots, block diagrams, and signal traces.
 
